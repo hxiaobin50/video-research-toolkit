@@ -1,0 +1,6 @@
+interface:
+  display_name: "研究设计与搜索试跑"
+  short_description: "建立项目范围、动态搜索词和小样本试跑计划"
+  default_prompt: "Use $video-research-design to plan this video study and run a small search pilot."
+policy:
+  allow_implicit_invocation: true

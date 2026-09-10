@@ -1,0 +1,32 @@
+# Secrets
+.env
+.env.*
+!.env.example
+!**/.env.example
+*.key
+*.pem
+*.p12
+*.pfx
+
+# Research projects and collected data
+projects/
+raw/
+processed/
+outputs/
+cache/
+logs/
+.video-research/
+
+# Local runtime files
+node_modules/
+__pycache__/
+*.pyc
+.pytest_cache/
+*.tmp
+~$*.xlsx
+
+# Editors and operating system
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store

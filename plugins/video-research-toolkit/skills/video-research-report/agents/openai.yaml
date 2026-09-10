@@ -1,0 +1,6 @@
+interface:
+  display_name: "视频调研分析报告"
+  short_description: "基于现有证据生成可追溯的Markdown分析报告"
+  default_prompt: "Use $video-research-report to create a Markdown report from the current project's existing evidence."
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,6 @@
+interface:
+  display_name: "视频内容调研"
+  short_description: "研究平台视频内容、表现、分类与优秀案例"
+  default_prompt: "Use $video-content-landscape to research what videos exist and what performs well."
+policy:
+  allow_implicit_invocation: true

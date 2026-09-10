@@ -1,0 +1,6 @@
+interface:
+  display_name: "完整视频调研"
+  short_description: "统筹研究设计、视频内容、评论VOC与报告输出"
+  default_prompt: "Use $video-research to start a complete video research project and ask only for missing information."
+policy:
+  allow_implicit_invocation: true
